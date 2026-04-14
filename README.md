@@ -6,7 +6,8 @@
 
 ## What This Project Does
 
-This project builds a chest X-ray pneumonia classifier using ResNet-50 and analyses its decisions using three complementary explainability methods — Grad-CAM, SHAP, and LIME. The core contribution is not the classification itself, but the systematic evaluation of when and why the model's explanations can be trusted. Cross-method agreement is introduced as a practical indicator of trust in medical AI systems.
+This project builds a chest X-ray pneumonia classifier using ResNet-50 and analyses its decisions using three complementary explainability methods — Grad-CAM, SHAP, and LIME. The core contribution is not the classification itself, but the systematic evaluation of when and why the model's explanations can be trusted. Cross-method agreement is introduced as a practical indicator of trust 
+in medical AI systems. This project demonstrates that agreement between explainability methods may be a stronger indicator of model reliability than predictive accuracy alone.
 
 ---
 
